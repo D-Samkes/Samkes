@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{010FB530-42DA-4173-7A1B-EDB49499601C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LearnCPPProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
